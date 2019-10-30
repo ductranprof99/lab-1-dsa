@@ -1,0 +1,4 @@
+﻿  dbLib.cpp
+C:\Users\DINH_DUC\source\repos\lab 1 dsa\lab 1 dsa\dbLib.cpp(380,11): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\DINH_DUC\source\repos\lab 1 dsa\lab 1 dsa\dbLib.cpp(484,20): warning C4018:  '<': signed/unsigned mismatch
+  lab 1 dsa.vcxproj -> C:\Users\DINH_DUC\source\repos\lab 1 dsa\Debug\lab 1 dsa.exe
